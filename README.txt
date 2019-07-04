@@ -10,3 +10,6 @@ current score and the round number that was just played.
 The link for this specific assignment with The Odin Project can be found
 here: https://www.theodinproject.com/courses/web-development-101/
 lessons/rock-paper-scissors
+
+UPDATE 7/3/2019: Using HTML and DOM manipulation, I was able to give a barebones UI for this rock, paper, scissors game so that it may be 
+played in the browser. Eventually, I will add some CSS to this to make it more presentable. 
